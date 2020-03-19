@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Barry/AppData/Local/Programs/Python/Python38/MyPyPrograms/cubed.py",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/assets/less/pages/all.less",
+		"/C/Users/Barry/My Websites/archives/blixstreet/contact_mail - 20190815.php",
+		"/C/Users/Barry/Documents/Clients/Blix Street/instructions/redirects.txt",
+		"/C/Users/Barry/My Websites/blixstreet/cgi-bin/contact.pl",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/content/about-us.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/pages/error.htm",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/SQL Statements/SQL_resident_directory.txt",
+		"/C/Users/Barry/Documents/Web Development/PHP MySQL SQL statements/DisplaySuccessFailure.txt",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/Directory/Almahurst Row/3128A/question about Estancia.msg",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/Directory/Almahurst Row/3128A/RE_ RSVP email addition .msg",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/Directory/Almahurst Row/3128A/FW_ Questions about Estancia.msg",
+		"/C/Users/Barry/My Websites/blackhorse/_private/lists/.passwd",
+		"/C/Users/Barry/My Websites/oct_cms/archive-sql/tblcontacts.sql",
+		"/C/Users/Barry/Documents/Web Development/Javascript/validate_checked.txt",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/BHOA19/log_transactions.txt",
+		"/C/Users/Barry/Documents/Web Development/SQL Statements/INSERT INTO `tblevents` (`date`, `place`, `title`,",
+		"/C/Program Files/Sublime Text 3/rules",
+		"/C/Program Files/Sublime Text 3/snippet-doctype.html",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/SQL Statements/Replicate_an_Event_in_PHPADMIN.txt",
+		"/C/Users/Barry/Dropbox/factorial4.php",
+		"/C/Users/Barry/Desktop/invite",
+		"/C/Users/Barry/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1MDLQ80U/Untitled attachment 00092.html",
+		"/C/Users/Barry/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1MDLQ80U/Untitled attachment 08850.html",
+		"/C/Users/Barry/Desktop/ArchiveBHOA.pst",
+		"/C/Users/Barry/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1MDLQ80U/Culture Report_ Emerging Local Playwright Unpacks the Disposable Things - Voice of San Diego.html",
+		"/C/Users/Barry/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1MDLQ80U/Untitled attachment 00212.html",
+		"/C/Users/Barry/My Websites/archives/blixstreet/contact20181030.html",
+		"/C/Users/Barry/My Websites/archives/blixstreet/contact20150816.html",
+		"/C/Users/Barry/My Websites/blixstreet/_private/.htaccess",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/config/cms.php",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/SQL Statements/tblresstatus.sql",
+		"/C/Users/Barry/AppData/Local/Temp/Temp1_file-4.26-bin.zip/contrib/file/4.26/file-4.26-GnuWin32.README",
+		"/C/Users/Barry/Desktop/tblresidents.sql",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/partials/footer.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/pages/about-us.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/layouts/default.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/assets/css/theme.css",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/assets/less/layouts/all.less",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/assets/images/animal.png",
+		"/C/Users/Barry/Pictures/Blackhorse/marquee2019.png",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/pages/home.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/version.yaml",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/hoa-one/theme.yaml",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/rainlab-vanilla/README.md",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/themes/bjmdata20190610/pages/index.htm",
+		"/C/Bitnami/wampstack/apache2/htdocs/oct_cms/config/index.htm",
+		"/C/Bitnami/wampstack/php/php.ini",
+		"/C/Bitnami/wampstack/php/ext/php_fileinfo.dll",
+		"/C/Users/Barry/My Websites/CSS-Grid/css-grid-master/packageChrome.json",
+		"/C/Users/Barry/My Websites/blackhorse/lajollafarms.php",
+		"/C/Users/Barry/My Websites/CSS-Grid/new_file.htm",
+		"/C/Users/Barry/My Websites/CSS-Grid/index.html",
+		"/C/Users/Barry/My Websites/CSS-Grid/new_file",
+		"/C/Users/Public/Documents/DoorKing/DoorKing Account Manager/ACCT0001/TRANS018-20190411.CSV",
+		"/C/Users/Public/Documents/DoorKing/DoorKing Account Manager/ACCT0001/RESIDENT.DAT",
+		"/C/Users/Barry/Desktop/make_vcard (2).vcf",
+		"/C/Users/Barry/Desktop/make_vcard (1).vcf",
+		"/C/Users/Barry/Desktop/make_vcard.vcf",
+		"/C/Users/Barry/Documents/Travel/2018-10 Greece Cruise/Travel Calendar Calendar2.ics",
+		"/C/Users/Barry/Documents/Clients/Blackhorse HOA/SQL Statements/find_a_resident_address.sql",
+		"/C/temp/globe_bank_db.sql",
+		"/C/Users/Barry/My Websites/blackhorse/_compareTemp/TMP1sjujew.php",
+		"/C/Users/Barry/My Websites/blackhorse/Connections/connbh04db1.php",
+		"/C/Users/Barry/My Websites/blackhorse/_compareTemp/TMPrjmigq.php",
+		"/C/Users/Barry/My Websites/blackhorse/Connections/connbh04db2.php",
+		"/C/Users/Barry/Documents/Keeneland/My Appliances/Dishwasher/repairs.jpg",
+		"/C/Bitnami/wampstack/mysql/data/hoa_site/db.opt",
+		"/C/Bitnami/wampstack/mysql/data/hoa_site/db20180530.opt",
+		"/C/Bitnami/wampstack/mysql/data/hoa_site/pages.ibd",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-1-Basics/Chapter_05/05_05/globe_bank.sql",
+		"/C/Users/Barry/Desktop/globe_site1.sql",
+		"/C/Bitnami/wampstack-5.5.30-1/mysql/data/globe_bank/pages.ibd",
+		"/C/Bitnami/wampstack-7.1.16-0/mysql/data/recipe/recipes.ibd",
+		"/C/Bitnami/wampstack-7.1.16-0/mysql/data/hoa_site/pages.ibd",
+		"/C/Bitnami/wampstack-7.1.16-0/mysql/data/hoa_site/subjects.ibd",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-1-Basics/Chapter_09/09_04/globe_bank.sql",
+		"/C/Bitnami/wampstack/mysql/data/ib_logfile0",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/public/staff/admins/new.php",
+		"/C/Users/Barry/My Websites/hoa_site/public/staff/admins/Members Pages and Functions",
+		"/C/Users/Barry/My Websites/hoa_site/private/shared/public_footer.php",
+		"/C/Users/Barry/My Websites/blackhorse/css/bh.css",
+		"/C/Users/Barry/Desktop/hoa_directory.htm",
+		"/C/Users/Barry/My Websites/hoa_site/_compareTemp/TMPz3lkma.php",
+		"/C/Users/Barry/My Websites/globe_bank/public/CommandLine",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/private/query_functions.php",
+		"/C/Bitnami/wampstack/mysql/data/mysqld.log",
+		"/C/Users/Barry/Desktop/spoof_20180522165119.txt",
+		"/C/Users/Barry/Desktop/spoof_20180522125550.txt",
+		"/C/Users/Barry/My Websites/globe_bank/backup/globe_bank_db.sql",
+		"/C/Users/Barry/My Websites/globe_bank/backup/globe_bank.sql",
+		"/C/Bitnami/wampstack/mysql/my.ini",
+		"/C/Bitnami/wampstack/mysql/README",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_08/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_08/globe_bank/private/auth_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_08/globe_bank/private/initialize.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_08/globe_bank/public/staff/index.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_08/globe_bank/public/staff/login.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_06/globe_bank/public/staff/login.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/public/staff/pages/new.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/private/validation_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_06/06_02/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/public/staff/admins/edit.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_06/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_06/globe_bank/public/index.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_04/04_07-solution/globe_bank/public/stylesheets/staff.css",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_06/06_02/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_04/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_06/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_05/05_10-final/globe_bank/public/staff/subjects/new.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_01/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_04/globe_bank/public/index.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_01/globe_bank/public/index.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_03/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_04/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_03/03_01/globe_bank/public/staff/pages/edit.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_02/02_04/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_02/02_01/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_01/01_03-final/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_06/06_07-challenge/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_02/02_07-solution/globe_bank/private/query_functions.php",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_02/02_07-solution/globe_bank.sql",
+		"/C/Users/Barry/Documents/Web Development/PHP-MySQL-Essential-2-CMS/Chapter_01/01_03/new_files/index.php",
+		"/C/Users/Barry/My Websites/globe_bank/public/index.php",
+		"/C/Sublime test code/2",
+		"/C/Users/Barry/Documents/Web Development/Bootstrap/Jumbotron Template for Bootstrap.html",
+		"/C/Sublime test code/9"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python38.sublime-build",
+	"project": "cubed.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css-grid-master\\package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

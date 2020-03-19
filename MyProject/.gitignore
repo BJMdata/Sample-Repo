@@ -1,0 +1,14 @@
+venv
+.vscode
+cubed.py
+cubed.sublime-workspace
+basic_types.py
+circumference.py
+get_rt22_no_blanks.py
+get_rt22.py
+hello.py
+scrape_tides.py
+scrape_tides1.py
+test_html.py
+script00.py
+script02.py

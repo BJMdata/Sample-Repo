@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Barry\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16
+}
